@@ -1,0 +1,23 @@
+
+Josh Lee has Elizabeth Oh
+Elizabeth Oh has Nick Lee
+Nick Lee has Will Kim
+Will Kim has Jennifer Kim
+Jennifer Kim has Tori Kim
+Tori Kim has Michael He
+Michael He has Chang Guo
+Chang Guo has Tae Kim
+Tae Kim has Doyoung Jung
+Doyoung Jung has Ivy Lee
+Ivy Lee has Jinwon Jang
+Jinwon Jang has Chulsoon Hwang
+Chulsoon Hwang has Seoyon Lee
+Seoyon Lee has Jeffrey Liew
+Jeffrey Liew has Esther Ko
+Esther Ko has Michaela Kang
+Michaela Kang has Esther Ki
+Esther Ki has Josh Park
+Josh Park has Joseph Kwon
+Joseph Kwon has Daniel Sung
+Daniel Sung has Josh Lee
+

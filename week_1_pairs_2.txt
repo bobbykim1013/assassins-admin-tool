@@ -1,0 +1,33 @@
+
+Michaela Kang has Sue Jin Park
+Sue Jin Park has Doyoung Jung
+Doyoung Jung has Nick Lee
+Nick Lee has Chang Guo
+Chang Guo has Clara Bae
+Clara Bae has Josh Park
+Josh Park has Eric Kim
+Eric Kim has Joseph Kwon
+Joseph Kwon has Josh Lee
+Josh Lee has Bryan Lee
+Bryan Lee has Elizabeth Oh
+Elizabeth Oh has Jennifer Kim
+Jennifer Kim has Esther Ki
+Esther Ki has Tori Kim
+Tori Kim has Esther Ko
+Esther Ko has Tae Kim
+Tae Kim has Jennifer Suriadinata
+Jennifer Suriadinata has Jeffrey Liew
+Jeffrey Liew has Amy Kim
+Amy Kim has Daniel Sung
+Daniel Sung has Sam Lee
+Sam Lee has Aaron Zou
+Aaron Zou has Seoyon Lee
+Seoyon Lee has Ivy Lee
+Ivy Lee has Grace Yuan
+Grace Yuan has Will Kim
+Will Kim has Michael He
+Michael He has Paul Lee
+Paul Lee has Chulsoon Hwang
+Chulsoon Hwang has Kwonwoo Choi
+Kwonwoo Choi has Michaela Kang
+

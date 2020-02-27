@@ -1,0 +1,88 @@
+Josh Park has Chulsoon Hwang
+Chulsoon Hwang has Seoyon Lee
+Seoyon Lee has Elizabeth Oh
+Elizabeth Oh has Esther Ki
+Esther Ki has Nathan Hoang
+Nathan Hoang has Tae Kim
+Tae Kim has Jennifer Suriadinata
+Jennifer Suriadinata has Sam Lee
+Sam Lee has Josh Lee
+Josh Lee has Joseph Kwon
+Joseph Kwon has Michael He
+Michael He has Aaron Zou
+Aaron Zou has Esther Ko
+Esther Ko has Laura Kim
+Laura Kim has Paul Lee
+Paul Lee has Clara Bae
+Clara Bae has Amy Kim
+Amy Kim has Chang Guo
+Chang Guo has Doyoung Jung
+Doyoung Jung has Will Kim
+Will Kim has Daniel Sung
+Daniel Sung has Michaela Kang
+Michaela Kang has Jennifer Kim
+Jennifer Kim has Tori Kim
+Tori Kim has Jeffrey Liew
+Jeffrey Liew has Danielle Song
+Danielle Song has Nick Lee
+Nick Lee has Stephanie Choi
+Stephanie Choi has Ivy Lee
+Ivy Lee has Jinwon Jang
+Jinwon Jang has Dawt Sung
+Dawt Sung has Kwonwoo Choi
+Kwonwoo Choi has Eric Kim
+Eric Kim has Sue Jin Park
+Sue Jin Park has Bryan Lee
+Bryan Lee has Grace Yuan
+Grace Yuan has Josh Park
+Number Alive: 37
+
+Leaderboard:
+1. Tae Kim with 2 kills (immunities remaining: 2)
+2. Nick Lee with 1 kills (immunities remaining: 2)
+3. Aaron Zou with 1 kills (immunities remaining: 2)
+4. Jennifer Kim with 1 kills (immunities remaining: 2)
+5. Ivy Lee with 1 kills (immunities remaining: 2)
+6. Josh Lee with 1 kills (immunities remaining: 1)
+7. Tori Kim with 1 kills (immunities remaining: 1)
+8. Bryan Lee with 1 kills (immunities remaining: 1)
+9. Will Kim with 1 kills (immunities remaining: 1)
+10. Jisu Kim with 1 kills **DEAD**
+11. Kwonwoo Choi with 0 kills (immunities remaining: 2)
+12. Jeffrey Liew with 0 kills (immunities remaining: 2)
+13. Michaela Kang with 0 kills (immunities remaining: 2)
+14. Jinwon Jang with 0 kills (immunities remaining: 2)
+15. Daniel Sung with 0 kills (immunities remaining: 2)
+16. Elizabeth Oh with 0 kills (immunities remaining: 2)
+17. Amy Kim with 0 kills (immunities remaining: 2)
+18. Danielle Song with 0 kills (immunities remaining: 2)
+19. Seoyon Lee with 0 kills (immunities remaining: 2)
+20. Jennifer Suriadinata with 0 kills (immunities remaining: 2)
+21. Joseph Kwon with 0 kills (immunities remaining: 1)
+22. Chulsoon Hwang with 0 kills (immunities remaining: 1)
+23. Sue Jin Park with 0 kills (immunities remaining: 1)
+24. Stephanie Choi with 0 kills (immunities remaining: 1)
+25. Dawt Sung with 0 kills (immunities remaining: 1)
+26. Eric Kim with 0 kills (immunities remaining: 1)
+27. Esther Ko with 0 kills (immunities remaining: 1)
+28. Laura Kim with 0 kills (immunities remaining: 1)
+29. Sam Lee with 0 kills (immunities remaining: 1)
+30. Grace Yuan with 0 kills (immunities remaining: 1)
+31. Nathan Hoang with 0 kills (immunities remaining: 1)
+32. Josh Park with 0 kills (immunities remaining: 1)
+33. Michael He with 0 kills (immunities remaining: 1)
+34. Doyoung Jung with 0 kills (immunities remaining: 1)
+35. Esther Ki with 0 kills (immunities remaining: 1)
+36. Chang Guo with 0 kills (immunities remaining: 1)
+37. Clara Bae with 0 kills (immunities remaining: 1)
+38. Paul Lee with 0 kills (immunities remaining: 1)
+39. Tae Park with 0 kills **DEAD**
+40. Kelvin Mun with 0 kills **DEAD**
+41. Jamie Yoon with 0 kills **DEAD**
+42. Adin Lee with 0 kills **DEAD**
+43. Erin Lee with 0 kills **DEAD**
+44. Jenny Lee with 0 kills **DEAD**
+45. Grace Kim with 0 kills **DEAD**
+46. Hyunwoo Song with 0 kills **DEAD**
+47. Grace Oh with 0 kills **DEAD**
+48. Jungwoo Joo with 0 kills **DEAD**
